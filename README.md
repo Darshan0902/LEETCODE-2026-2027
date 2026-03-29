@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
