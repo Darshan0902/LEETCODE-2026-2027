@@ -6,7 +6,7 @@ SELECT
             SUM(c.action = 'confirmed') / COUNT(c.action),
             0
         ),
-        2
+        2 
     ) AS confirmation_rate
 FROM Signups s
 LEFT JOIN Confirmations c
