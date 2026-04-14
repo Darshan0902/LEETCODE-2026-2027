@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
 | ------- |
