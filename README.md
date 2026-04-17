@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->
