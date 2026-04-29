@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0151-reverse-words-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3783-mirror-distance-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
