@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
