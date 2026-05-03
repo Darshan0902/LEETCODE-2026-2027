@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0796-rotate-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0334-increasing-triplet-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
