@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1768-merge-strings-alternately) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0021-merge-two-sorted-lists) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
