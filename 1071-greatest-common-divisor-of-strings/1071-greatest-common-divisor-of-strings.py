@@ -1,7 +1,8 @@
-import math
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
-        if str1 + str2 != str2+str1:
+        if str1 + str2 != str2 + str1:
             return ""
-        res = math.gcd(len(str1),len(str2))
-        return (str1[:res])
+        m  =len(str1)
+        n = len(str2)
+        final_l = math.gcd(m,n)
+        return (str1[:final_l])
